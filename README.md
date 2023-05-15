@@ -25,7 +25,7 @@ I am well-versed in Git, RDBMS, and Docker, and have extensive knowledge in Reac
 
 **Worktools**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) ![Jira](https://img.shields.io/badge/-jira-333333?style=flat&logo=jira&logoColor=007ACC) ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 ## 🌐 Social Network
 
