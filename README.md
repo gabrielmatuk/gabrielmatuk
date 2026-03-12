@@ -4,8 +4,8 @@ I'm a **full-stack developer**. I specialize in JavaScript/TypeScript and Node, 
 
 I am well-versed in Git, RDBMS, and Docker, and have extensive knowledge in React. In my previous roles, I developed APIs, integrated third-party systems with Zendesk, created help centers, built Zendesk applications, and modeled and developed chatbots.
 
- - 🎓 **Information System** at [Descomplica](https://descomplica.com.br/)
- - 💼 **Full-Stack Developer** at [ETEG](http://eteg.com.br/)
+ - 🎓 Post Graduate as System Architeture and Bachelor in **Information System** at [PUC](https://www.pucminas.br/destaques/Paginas/default.aspx)
+ - 💼 **AI Developer** at [Yalo](https://www.yalo.ai/)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gabrielmatuk&color=000000)
